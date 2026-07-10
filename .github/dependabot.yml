@@ -13,4 +13,4 @@ updates:
     cooldown:
       default-days: 6
       exclude:
-        - "rancher/product-docs-common"
+        - "rancher/product-docs-common/.github/workflows/test-deploy-min.yml"
