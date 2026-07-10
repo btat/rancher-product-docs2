@@ -13,4 +13,4 @@ updates:
     cooldown:
       default-days: 7
       exclude:
-        - "rancher/product-docs-common/.github/workflows"
+        - "rancher/product-docs-common"
