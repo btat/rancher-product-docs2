@@ -11,6 +11,6 @@ updates:
     schedule:
       interval: "daily"
     cooldown:
-      default-days: 7
+      default-days: 6
       exclude:
         - "rancher/product-docs-common"
