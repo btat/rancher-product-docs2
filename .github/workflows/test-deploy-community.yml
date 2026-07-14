@@ -18,7 +18,7 @@ permissions:
 
 jobs:
   test-deploy:
-    uses: rancher/product-docs-common/.github/workflows/test-deploy-min.yml@45107dd493f5e14cfaab19c50b98df62598a5c5d # main
+    uses: rancher/product-docs-common/.github/workflows/test-deploy-min.yml@05c715080ffc0abfbedb547d91b4dbd03b614561 # main
     secrets:
       token: ${{ github.token }}
     with:
