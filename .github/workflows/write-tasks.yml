@@ -6,4 +6,4 @@ on:
     types: [completed]
 jobs:
   write-tasks:
-    uses: rancher/product-docs-common/.github/workflows/write-tasks.yml@cf310c648d88d6b00c85969ff7ee89e69772fd11 # main
+    uses: rancher/product-docs-common/.github/workflows/write-tasks.yml@05c715080ffc0abfbedb547d91b4dbd03b614561 # main
